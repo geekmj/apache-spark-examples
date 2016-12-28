@@ -1,2 +1,2 @@
-# Examples of several different functionalities of Apache Spark.
+# Examples of several different functionalities of Apache Spark with Java.
 
