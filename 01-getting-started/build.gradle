@@ -1,0 +1,10 @@
+apply plugin: 'java-library'
+
+repositories {
+    jcenter()
+}
+
+dependencies {
+    compileOnly 'org.apache.spark:spark-core_2.11:2.1.0'
+    testImplementation 'org.apache.spark:spark-core_2.11:2.1.0','junit:junit:4.12'
+}
