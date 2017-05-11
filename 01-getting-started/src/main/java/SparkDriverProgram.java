@@ -9,7 +9,7 @@ import org.apache.spark.api.java.JavaSparkContext;
  * It does following operation on RDD
  * 1. Total no. of lines in log file
  * 2. Total characters in log file
- * 3. Total no. of URL in log file with html and gif extension
+ * 3. Total no. of URL in log file with HTML and GIF extension
  */
 public class SparkDriverProgram {
     public static void main(String args[]) {
